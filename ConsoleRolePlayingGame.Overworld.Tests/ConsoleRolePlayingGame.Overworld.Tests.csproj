@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ConsoleRolePlayingGame.Overworld\ConsoleRolePlayingGame.Overworld.csproj" />
+    </ItemGroup>
+
 </Project>
